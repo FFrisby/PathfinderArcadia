@@ -9,7 +9,7 @@
 
 Should the cape’s wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a feather fall spell that only works for the wearer. 
 
-Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into a Small eagle (as per the spell Beast Shape I, see details below). This effect lasts for 10 minutes but can be ended prematurely as a standard action. 
+Twice per day, if the wearer grasps the edges of the cape and spreads her arms, she can transform into an eagle (see details below). This effect lasts for 10 minutes but can be ended prematurely as a standard action. 
 
 In addition, while in eagle form, the wearer gains a +5 competence bonus on Perception checks.
 When transforming into an eagle, the wearer can expend a mythic point to transform into a Large size eagle instead of a Small one.

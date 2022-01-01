@@ -15,7 +15,7 @@ In addition, while in eagle form, the wearer gains a +5 competence bonus on Perc
 When transforming into an eagle, the wearer can expend a mythic point to transform into a Large size eagle instead of a Small one.
 Unlike other methods of transforming your shape, you may still speak and cast spells when in eagle form. 
 
-*Note:* When transformed into an animal, your clothes, armour and weapons merge with your body. This means you do not gain any armour or shield bonus from them when in animal form. 
+*Note:* When transformed into an animal, your clothes, armour and weapons merge with your body. This means you do not gain any armour or shield bonus from them when in animal form, but other types of bonuses remain active (e.g. resistance, dodge or enhancement).
 
 **Small Eagle**: +2 Dex, +1 Natural Armour, 80ft Fly (Average), Low-light vision, +5 Perception
 *Space*: 5ft, Reach: 5ft, Size: Small (+1 attack, +1 AC)

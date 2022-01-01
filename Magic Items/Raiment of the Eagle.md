@@ -1,9 +1,33 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Kaikohani's Bow | Weapon | Strong Transmutation | 5lbs   | 15th         |
+| Name                 | Slot      | Aura                   | Weight | Caster Level |
+| -------------------- | --------- | ---------------------- | ------ | ------------ |
+| Raiment of the Eagle | Shoulders | Moderate Transmutation | 1lb    | 9th          |
 
-**+3 Shocking Composite Longbow [16 Str]**
+**Raiment of the Eagle**
 
-Once per turn when making a ranged attack, the bow’s wielder may expend a Mythic Point in order make a single attack roll and compare the result against every enemy within 60 feet of her.
-The wielder rolls damage only once, and applies it to all foes hit by the attack.
++2 *Resistance* Bonus to saving throws
+
+Should the cape’s wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a feather fall spell that only works for the wearer. 
+
+Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into a Small eagle (as per the spell Beast Shape I, see details below). This effect lasts for 10 minutes but can be ended prematurely as a standard action. 
+
+In addition, while in eagle form, the wearer gains a +5 competence bonus on Perception checks.
+When transforming into an eagle, the wearer can expend a mythic point to transform into a Large size eagle instead of a Small one.
+Unlike other methods of transforming your shape, you may still speak and cast spells when in eagle form. 
+
+*Note:* When transformed into an animal, your clothes, armour and weapons merge with your body. This means you do not gain any armour or shield bonus from them when in animal form. 
+
+**Small Eagle**: +2 Dex, +1 Natural Armour, 80ft Fly (Average), Low-light vision, +5 Perception
+*Space*: 5ft, Reach: 5ft, Size: Small (+1 attack, +1 AC)
+*Natural Weapons*: 2x Claws (1d4), 1x Bite (1d4)
+
+
+**Large Eagle**: +4 Str, -2 Dex, +4 Natural Armour, 80ft Fly (Average), Low-light vision, +5 Perception
+*Space*: 10ft, Reach: 5ft, Size: Large (-1 attack, -1 AC)
+*Natural Weapons*: 2x Claws (1d8), 1x Bite (1d8)
+
+
+
+![itemimage]
+
+[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/EagleCloak.jpg

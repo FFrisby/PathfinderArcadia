@@ -1,9 +1,12 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Kaikohani's Bow | Weapon | Strong Transmutation | 5lbs   | 15th         |
+| Name           | Slot   | Aura                                | Weight | Caster Level | Armour Check Penalty |
+| -------------- | ------ | ----------------------------------- | ------ | ------------ | -------------------- |
+| Obsidian Plate | Armour | Strong abjuration and transmutation | 100lbs | 11th         | -10                  |
 
-**+3 Shocking Composite Longbow [16 Str]**
+**+2 Light Fortification Full Plate**
 
-Once per turn when making a ranged attack, the bow’s wielder may expend a Mythic Point in order make a single attack roll and compare the result against every enemy within 60 feet of her.
-The wielder rolls damage only once, and applies it to all foes hit by the attack.
+As a immediate action, the wearer can expend one use of mythic power to turn their body to living stone, gaining DR 5/Adamantine and immunity to critical hits and sneak attacks. This effect lasts for 1 round per mythic tier
+
+![itemimage]
+
+[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/StonePlate.jpg

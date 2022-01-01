@@ -1,9 +1,15 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Kaikohani's Bow | Weapon | Strong Transmutation | 5lbs   | 15th         |
+| Name                        | Slot   | Aura               | Weight | Caster Level |
+| --------------------------- | ------ | ------------------ | ------ | ------------ |
+| Bracers of the Noon-day Sun | Bracer | Moderate Evocation | 2lbs   | 9th          |
 
-**+3 Shocking Composite Longbow [16 Str]**
+**Bracers of the Noon-day Sun**
 
-Once per turn when making a ranged attack, the bow’s wielder may expend a Mythic Point in order make a single attack roll and compare the result against every enemy within 60 feet of her.
-The wielder rolls damage only once, and applies it to all foes hit by the attack.
+The wearer can cast *Light* at will
+2/day can cast *Daylight* as a standard action. 
+As a swift action, the wearer can expend one use of mythic power to channel energy as if they were a cleric with a level equal to their hit dice, but can only use this ability to damage undead, not to heal living creatures.
+
+
+![itemimage]
+
+[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/BracersOfNoondaySun.jpg

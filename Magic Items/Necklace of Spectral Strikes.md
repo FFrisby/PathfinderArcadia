@@ -1,9 +1,16 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Kaikohani's Bow | Weapon | Strong Transmutation | 5lbs   | 15th         |
+| Name                         | Slot | Aura               | Weight | Caster Level |
+| ---------------------------- | ---- | ------------------ | ------ | ------------ |
+| Necklace of Spectral Strikes | Neck | Moderate Evocation | -      | 9th          |
 
-**+3 Shocking Composite Longbow [16 Str]**
+**Necklace of Spectral Strikes**
 
-Once per turn when making a ranged attack, the bow’s wielder may expend a Mythic Point in order make a single attack roll and compare the result against every enemy within 60 feet of her.
-The wielder rolls damage only once, and applies it to all foes hit by the attack.
+The amulet grants a +1 bonus on attack and damage rolls with unarmed strikes and provides the benefits of the ghost touch weapon special ability on unarmed strikes. 
+As a swift action, the wearer can spend a ki point to make one unarmed strike — whether as a single attack or part of a full attack — an incorporeal touch attack. 
+As an immediate action, the wearer can expend one use of mythic power to become incorporeal for 1 round. 
+
+![itemimage]
+
+[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/NecklaceofSpectralStrikes.png
+
+

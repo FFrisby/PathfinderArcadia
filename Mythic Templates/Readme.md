@@ -37,7 +37,7 @@ For the purposes of our game, the Path that you gain will be decided by how you 
 * Mythic Path: Guardian
 * Mythic Points: 7/day
 * Surge: +1d6
-* 
+  
 ## Isiah
 * Mythic Rank: 1
 * Mythic Path: Hierophant

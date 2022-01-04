@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-|  |  |  |    |          |
+| Name          | Slot      | Aura                    | Weight | Caster Level | Value |
+| ------------- | --------- | ----------------------- | ------ | ------------ | ----- |
+| Magical Thing | Some Slot | faint/moderate/strong x | xlb    | nth          | xxgp  |
 
 **Thing**
 
@@ -9,4 +9,4 @@ Description
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/Calendar.png
+[itemimage]: /MagicItems/ItemArt/Calendar.png

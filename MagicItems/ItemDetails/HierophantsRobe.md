@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Hierophants Robe| Body | Moderate Conjuration | -   | 7th         |
+| Name             | Slot | Aura                 | Weight | Caster Level | Value  |
+| ---------------- | ---- | -------------------- | ------ | ------------ | ------ |
+| Hierophants Robe | Body | Moderate Conjuration | -      | 7th          | 5000gp |
 
 **Hierophants Robe**
 

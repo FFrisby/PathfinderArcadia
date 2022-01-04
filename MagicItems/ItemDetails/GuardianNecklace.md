@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Guardian Necklace | Neck | Minor Abjuration | -   | 1st         |
+| Name              | Slot | Aura             | Weight | Caster Level | Value  |
+| ----------------- | ---- | ---------------- | ------ | ------------ | ------ |
+| Guardian Necklace | Neck | Minor Abjuration | -      | 1st          | 2800gp |
 
 **Guardian Necklace**
 

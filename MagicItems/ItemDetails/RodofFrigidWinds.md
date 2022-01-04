@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Rod of Frigid Winds | Weapon | Moderate Conjuration | 1lb   |  3rd         |
+| Name                | Slot   | Aura                 | Weight | Caster Level | Value  |
+| ------------------- | ------ | -------------------- | ------ | ------------ | ------ |
+| Rod of Frigid Winds | Weapon | Moderate Conjuration | 1lb    | 3rd          | 1500gp |
 
 **Rod of Frigid Winds**
 

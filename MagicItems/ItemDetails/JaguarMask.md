@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Jaguar Mask | Helm | Faint Necromancy | -   | 3rd         |
+| Name        | Slot | Aura             | Weight | Caster Level | Value  |
+| ----------- | ---- | ---------------- | ------ | ------------ | ------ |
+| Jaguar Mask | Helm | Faint Necromancy | -      | 3rd          | 3000gp |
 
 **Jaguar Mask**
 

@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Rod of the War Mage| Weapon | Moderate Evocation | -   | 7th         |
+| Name                | Slot   | Aura               | Weight | Caster Level | Value  |
+| ------------------- | ------ | ------------------ | ------ | ------------ | ------ |
+| Rod of the War Mage | Weapon | Moderate Evocation | -      | 7th          | 3500gp |
 
 **Rod of the War Mage**
 

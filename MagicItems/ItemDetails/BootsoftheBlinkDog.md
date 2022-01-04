@@ -9,7 +9,4 @@
 
 ![itemimage]
 
-[itemimage]: /MagicItems/ItemArt/Calendar.png
-
-/NPCs/NPCArt/Aviri.png
-/MagicItems/ItemArt/Aviri.png
+[itemimage]: /MagicItems/ItemArt/BootsOfTheBlinkDog.png

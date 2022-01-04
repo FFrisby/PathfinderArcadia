@@ -1,7 +1,7 @@
 
-| Name            | Slot   | Aura                 | Weight | Caster Level |
-| --------------- | ------ | -------------------- | ------ | ------------ |
-| Rock of Reading | None | Faint Conjuration | 2lbs   | 1st         |
+| Name            | Slot | Aura              | Weight | Caster Level | Value |
+| --------------- | ---- | ----------------- | ------ | ------------ | ----- |
+| Rock of Reading | None | Faint Conjuration | 2lbs   | 1st          | 500   |
 
 **Rock of Reading**
 

@@ -13,13 +13,13 @@ This folder contains short descriptions of various NPC's the party have encounte
 * [Renza Jagelion](NPCDetails/Renza_Jagelion.md)
 ### Foes and Rivals
 
-#### Alive
+#### Last Seen Alive
 * [Tepin Zuma](NPCDetails/Tepin_Zuma_BugGuy.md)
 * [Vaelleus the Apprentice](NPCDetails/Vaelleus_the_apprentice.md)
 * [Riza the Ranger](NPCDetails/Riza_the_ranger.md.md)
 * ["King" Pikan](NPCDetails/Pikan_quickling_king.md)
 
-#### Deceased
+#### Presumed Dead
 * [Magister Simul](NPCDetails/Magister_Simul.md)
 * [Ogguran the Despot](NPCDetails/Ogguran_the_Despot.md)
 * [Lord Tzetzukama](NPCDetails/Lord_Tzetzukama.md)

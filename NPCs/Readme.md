@@ -17,11 +17,13 @@ This folder contains short descriptions of various NPC's the party have encounte
 * [Tepin Zuma](NPCDetails/Tepin_Zuma_BugGuy.md)
 * [Vaelleus the Apprentice](NPCDetails/Vaelleus_the_apprentice.md)
 * [Riza the Ranger](NPCDetails/Riza_the_ranger.md.md)
+* ["King" Pikan](NPCDetails/Pikan_quickling_king.md)
 
 #### Deceased
 * [Magister Simul](NPCDetails/Magister_Simul.md)
 * [Ogguran the Despot](NPCDetails/Ogguran_the_Despot.md)
 * [Lord Tzetzukama](NPCDetails/Lord_Tzetzukama.md)
+* [Bouda Nightwhisper](NPCDetails/Bouda_Nightwhisper.md)
 
 ### Others
 

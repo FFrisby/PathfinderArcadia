@@ -12,4 +12,4 @@ As a swift action, the wearer can expend one use of mythic power to channel ener
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/BracersOfNoondaySun.jpg
+[itemimage]: /MagicItems/ItemArt/BracersOfNoondaySun.jpg

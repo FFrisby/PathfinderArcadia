@@ -9,4 +9,4 @@ As a immediate action, the wearer can expend one use of mythic power to turn the
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/StonePlate.jpg
+[itemimage]: /MagicItems/ItemArt/StonePlate.jpg

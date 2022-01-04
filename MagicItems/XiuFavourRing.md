@@ -13,4 +13,4 @@ The wearer can cast _Virtue_ at will (gain 1 temporary hp for 1 minute)
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/FavourofXiu.png
+[itemimage]: /MagicItems/ItemArt/FavourofXiu.png

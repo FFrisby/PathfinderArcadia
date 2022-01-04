@@ -9,4 +9,4 @@ Once per day, when the wearer would be reduced to 0hp or less this necklace imme
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/GuardianNecklace.png
+[itemimage]: /MagicItems/ItemArt/GuardianNecklace.png

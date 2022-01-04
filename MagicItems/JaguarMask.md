@@ -11,4 +11,4 @@ When in combat, the wearer gains a +5 competence bonus when using Intimidate to 
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/JaguarMask.png
+[itemimage]: /MagicItems/ItemArt/JaguarMask.png

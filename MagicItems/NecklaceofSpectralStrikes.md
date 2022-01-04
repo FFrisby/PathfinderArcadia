@@ -11,6 +11,6 @@ As an immediate action, the wearer can expend one use of mythic power to become 
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/NecklaceofSpectralStrikes.png
+[itemimage]: /MagicItems/ItemArt/NecklaceofSpectralStrikes.png
 
 

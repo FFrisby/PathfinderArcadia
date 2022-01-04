@@ -11,4 +11,4 @@ Using this ability causes the casting time of a spell to become at least full-ro
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/HierophantsRobe.png
+[itemimage]: /MagicItems/ItemArt/HierophantsRobe.png

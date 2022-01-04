@@ -11,4 +11,4 @@ A DC20 Strength check is required to detach the rock from what it is reading bef
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/RockofReading.png
+[itemimage]: /MagicItems/ItemArt/RockofReading.png

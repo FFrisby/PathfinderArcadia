@@ -30,4 +30,4 @@ Unlike other methods of transforming your shape, you may still speak and cast sp
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/EagleCloak.jpg
+[itemimage]: /MagicItems/ItemArt/EagleCloak.jpg

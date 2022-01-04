@@ -11,4 +11,4 @@ Once per day, the wearer can cas _Burning Hands_ (15ft cone, 5d4 fire damage, Re
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/RingoftheInflamedSoul.png
+[itemimage]: /MagicItems/ItemArt/RingoftheInflamedSoul.png

@@ -11,4 +11,4 @@ Any spell that deals damage deals +2 damage (this is per spell, not per roll - i
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/RodoftheWarMage.png
+[itemimage]: /MagicItems/ItemArt/RodoftheWarMage.png

@@ -19,4 +19,4 @@ If the rod ever reaches 0 charges, there is a 10% chance that the rod melts and 
 
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/RodOfFrigidWinds.png
+[itemimage]: /MagicItems/ItemArt/RodOfFrigidWinds.png

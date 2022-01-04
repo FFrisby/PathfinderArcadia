@@ -10,4 +10,4 @@ Once per turn when making a ranged attack, the bow’s wielder may expend a Myth
 The wielder rolls damage only once, and applies it to all foes hit by the attack.
 ![itemimage]
 
-[itemimage]: https://github.com/FFrisby/PathfinderArcadia/blob/main/Magic%20Items/ItemArt/KaikohanisBow.jpg
+[itemimage]: /MagicItems/ItemArt/KaikohanisBow.jpg

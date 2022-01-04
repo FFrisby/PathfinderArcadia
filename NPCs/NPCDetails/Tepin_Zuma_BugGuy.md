@@ -2,7 +2,7 @@
 
 Tepin Zuma is technically the heir-apparent of the Zuma clan. 
 
-Unfortunately, he isn't quite the stable and level-headed leader one would hope for. The party encountered him working with a gang of goblins in the slums, raising gigantic centipedes. 
+Unfortunately, he isn't quite the stable and level-headed leader one would hope for. The party encountered him working with [King Pikan](Pikan_quickling_king.md) in the sewers, raising gigantic centipedes. 
 
 He has an unhealthy obsession with insects of all kinds, and empathises with his insectoid "friends" more with other humans. 
 

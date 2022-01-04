@@ -22,6 +22,7 @@ This folder is for keeping track of magic items that have been given to players,
 * [Xiu Favour Ring](/MagicItems/XiuFavourRing.md)
 * [Guardian Necklace](/MagicItems/GuardianNecklace.md)
 * [Hierophants Robe](/MagicItems/HierophantsRobe.md)
+* [Raiment of the Eagle](/MagicItems/RaimentoftheEagle.md)
 
 ### Simon
 * [Xiu Favour Ring](/MagicItems/XiuFavourRing.md)

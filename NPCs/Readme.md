@@ -16,7 +16,7 @@ This folder contains short descriptions of various NPC's the party have encounte
 #### Last Seen Alive
 * [Tepin Zuma](NPCDetails/Tepin_Zuma_BugGuy.md)
 * [Vaelleus the Apprentice](NPCDetails/Vaelleus_the_apprentice.md)
-* [Riza the Ranger](NPCDetails/Riza_the_ranger.md.md)
+* [Riza the Ranger](NPCDetails/Riza_the_ranger.md)
 * ["King" Pikan](NPCDetails/Pikan_quickling_king.md)
 
 #### Presumed Dead

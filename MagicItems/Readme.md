@@ -11,12 +11,12 @@ This folder is for keeping track of magic items that have been given to players,
 * [Obsidian Plate](/MagicItems/ItemDetails/ObsidianPlate.md)
 ### Liminhe
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)
-* [Ring of the Inflamed Soul](/MagicItems/ItemDetails/RingOfTheInflamedSoul.md)
+* [Ring of the Inflamed Soul](/MagicItems/ItemDetails/RingoftheInflamedSoul.md.md)
 * [Necklace of Spectral Strikes](/MagicItems/ItemDetails/NecklaceofSpectralStrikes.md)
 ### Talla
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)
-* [Boots of the Blink Dog](/MagicItems/ItemDetails/BootsOfTheBlinkDog.md)
-* [Gloves of the Healer](/MagicItems/ItemDetails/GlovesOfTheHealer.md)
+* [Boots of the Blink Dog](/MagicItems/ItemDetails/BootsoftheBlinkDog.md.md)
+* [Gloves of the Healer](/MagicItems/ItemDetails/GlovesoftheHealer.md.md)
 * [Kaikohanis Bow](/MagicItems/ItemDetails/KaikohanisBow.md)
 ### Isiah
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)

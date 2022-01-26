@@ -32,4 +32,4 @@ This folder contains short descriptions of various NPC's the party have encounte
 * [Leana the Hag](NPCDetails/Leana_the_hag.md)
 * [Porcelain Man](NPCDetails/Porcelain_man.md)
 * [Royal Guard Captain](NPCDetails/Royal_Guard_Captain.md)
-* [Taldan Ambassador](NPCDetails/Taldan_Ambassador.md.md)
+* [Taldan Ambassador](NPCDetails/Taldan_Ambassador.md)

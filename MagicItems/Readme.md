@@ -28,4 +28,4 @@ This folder is for keeping track of magic items that have been given to players,
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)
 * [Rod of Frigid Winds](/MagicItems/ItemDetails/RodOfFrigidWinds.md)
 * [Rod of the War Mage](/MagicItems/ItemDetails/RodOfTheWarMage.md)
-* [Bracers of the Noon-Day Sun](/MagicItems/ItemDetails/BracersOfTheNoondaySun.md)
+* [Bracers of the Noon-Day Sun](/MagicItems/ItemDetails/BracersoftheNoonDaySun.md)

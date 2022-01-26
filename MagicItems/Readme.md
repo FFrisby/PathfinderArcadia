@@ -12,7 +12,7 @@ This folder is for keeping track of magic items that have been given to players,
 ### Liminhe
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)
 * [Ring of the Inflamed Soul](/MagicItems/ItemDetails/RingOfTheInflamedSoul.md)
-* [Necklace of Spectral Strikes](/MagicItems/ItemDetails/NecklaceOfSpectralStrikes.md)
+* [Necklace of Spectral Strikes](/MagicItems/ItemDetails/NecklaceofSpectralStrikes.md)
 ### Talla
 * [Xiu Favour Ring](/MagicItems/ItemDetails/XiuFavourRing.md)
 * [Boots of the Blink Dog](/MagicItems/ItemDetails/BootsOfTheBlinkDog.md)
